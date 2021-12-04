@@ -1,0 +1,5 @@
+name : Closer
+version : 1.0
+author : joschma
+main : fr.joschma.Close.Closer
+api-version: 1.13

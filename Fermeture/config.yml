@@ -1,0 +1,7 @@
+# The delay from where the number of /NumberOfPeopleToStartClosingTime/ is equal to the number of player online, before executing /CommandToDoToStopServer/
+TimeBeforeClosingInSeconds: 900
+# The number of people to start /TimeBeforeClosingInSeconds/
+NumberOfPeopleToStartClosingTime: 0
+# The commands to do after the countdown /TimeBeforeClosingInSeconds/ has hit 0
+CommandToDoToStopServer: 
+  - stop
